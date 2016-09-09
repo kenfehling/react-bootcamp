@@ -1,0 +1,6 @@
+@import '../style/dimens';
+
+:local(.container) {
+  width: 100%;
+  height: $page-width * 2/3;
+}
