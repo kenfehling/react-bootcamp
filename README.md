@@ -9,13 +9,17 @@ HackHealth Bootcamp: JavaScript, React, and Redux
     - [Redux](http://jsfiddle.net/kenfehling/0081z6o8/)
 
 ##More resources
-- [Learn ES2015](https://babeljs.io/docs/learn-es2015/)
-- [Video: Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY)
-- [React - Getting Started (official docs)](https://facebook.github.io/react/docs/getting-started.html)
-- Egghead.io video series on Redux (by Dan Abramov, creator of Redux)
-    - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
-    - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
-    
+- JavaScript
+    - [Learn ES2015](https://babeljs.io/docs/learn-es2015/)
+    - [Video: Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY)
+    - Basically anything by [Douglas Crockford](https://www.google.com/search?q=douglas%20crockford)
+- React
+    - [React - Getting Started (official docs)](https://facebook.github.io/react/docs/getting-started.html)
+- Redux
+    - Egghead.io video series on Redux (by Dan Abramov, creator of Redux)
+        - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+        - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+
 
 ##Running full example
 `npm install` to install dependencies
