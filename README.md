@@ -11,7 +11,6 @@ HackHealth Bootcamp: JavaScript, React, and Redux
 ##More resources
 - JavaScript
     - [Learn ES2015](https://babeljs.io/docs/learn-es2015/)
-    - [Exploring ES6](http://exploringjs.com/es6/)
     - [Video: Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY)
     - Basically anything by [Douglas Crockford](https://www.google.com/search?q=douglas%20crockford)
 - React
